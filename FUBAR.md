@@ -1,4 +1,5 @@
 - What do you call a fake noodle? An impasta.
+- Why did the duck fall on the sidewalk? He tripped on a quack.
 <!DOCTYPE html>
 <html lang="en">
 <head>
