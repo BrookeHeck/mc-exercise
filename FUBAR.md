@@ -14,6 +14,7 @@
   <p> Why did the duck fall on the sidewalk? He tripped on a quack.</p>
   <p>The blue whale can produce the loudest sound of any animal. At 188 decibels, the noise can be detected over 800 kilometres away.</p>
   <h6>Why?</h6>
+  <p>Help, I've fallen and I can't get up!</p>
 </body>
 </html>
 
